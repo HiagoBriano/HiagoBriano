@@ -3,7 +3,7 @@
 <p align="left" >
 Me chamo <b> Hiago Briano</b>.
 </p>
-<a href="https://www.linkedin.com/in/hiagobriano/" target="_blank">
+<a href="https://www.linkedin.com/in/hiago-briano/" target="_blank">
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
 <p align="left" >
