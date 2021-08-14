@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Hiago Briano
  <div>
   <a href="https://github.com/HiagoBriano">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HiagoBriano&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiagoBriano&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HiagoBriano&show_icons=true&theme=dark&include_all_commits=true&count_private=true" style="max-width:100%;"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiagoBriano&layout=compact&langs_count=7&theme=dark" style="max-width:100%;"/>
 </div>
 
 <div> 
