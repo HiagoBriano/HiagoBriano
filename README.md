@@ -1,4 +1,4 @@
-<h1 align="center"> Sejam bem vindos! </h1>
+<h1 align="center"> Sejam Bem-Vindos! </h1>
 
 <p align="left" >
 Me chamo <b> Hiago Briano</b>.
