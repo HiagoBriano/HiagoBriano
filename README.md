@@ -13,13 +13,25 @@ Estou iniciando o curso na @betrybe</b>.
  
  ## 
  
+ 
+ <div>
+
+  <a href="https://github.com/rafaballerini">
+
+  <img height="139em" src="https://github-readme-stats.vercel.app/api?username=hiagobriano&show_icons=true&&theme=graywhite&title_color=268bd2&include_all_commits=true&count_private=true"/>
+
+  <img height="139em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiagobriano&layout=compact&langs_count=7&&theme=graywhite&title_color=268bd2"/>
+
+</div>
+
+<!--
  <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiagoBriano&layout=compact&theme=graywhite&title_color=268bd2" alt="Hiago Briano" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiagoBriano&layout=compact&theme=graywhite&title_color=268bd2" alt="Hiago Briano" />
 </p>
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HiagoBriano&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="Hiago Briano" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=HiagoBriano&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="Hiago Briano" />
 </p>
-
+-->
 ## 
  
 <div> 
