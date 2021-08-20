@@ -20,9 +20,9 @@ Estou iniciando o curso na @betrybe</b>.
   <div style="text-align: center">
   <a href="https://github.com/HiagoBriano">
 
-  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=hiagobriano&show_icons=true&&theme=graywhite&title_color=268bd2&include_all_commits=true&count_private=true"/>
+  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=hiagobriano&show_icons=true&&theme=graywhite&title_color=268bd2&include_all_commits=true&count_private=true&bg_color=C0C0C0"/>
 
-  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiagobriano&layout=compact&langs_count=7&&theme=graywhite&title_color=268bd2"/>
+  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiagobriano&layout=compact&langs_count=7&&theme=graywhite&title_color=268bd2&bg_color=C0C0C0"/>
 </div>
     <!-- Imagens das linguagens -->
     <div style="text-align: center"><br>
