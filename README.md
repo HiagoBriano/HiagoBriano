@@ -21,8 +21,9 @@ Estou iniciando o curso na @betrybe</b>.
   <img height="155em" src="https://github-readme-stats.vercel.app/api?username=hiagobriano&show_icons=true&&theme=graywhite&title_color=0000FF&include_all_commits=true&count_private=true&bg_color=C0C0C0&border_color=0000FF"/>
 
   <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiagobriano&layout=compact&langs_count=7&&theme=graywhite&title_color=0000FF&bg_color=C0C0C0&border_color=0000FF"/>
-</div>
+
     <!-- Imagens das linguagens -->
+</div>
     <div align="center"><br>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
@@ -31,18 +32,15 @@ Estou iniciando o curso na @betrybe</b>.
 </div>
 
 ## 
- 
+
+    <!-- contador -->
+  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=HiagoBriano" alt="Hiago Briano" /> </p>
+
+<!-- Imagem do e-mail (outlook) e do Linkedin
 <div> 
 <a href = "mailto:hiago.artist@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=HiagoBriano" alt="Hiago Briano" /> </p>
-
-⭐️ Baseado em [Hérika Ströngreen](https://github.com/Strongreen)
-
-
-
-
-<!--
 
 <a href="https://www.linkedin.com/in/hiago-briano/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
