@@ -33,7 +33,7 @@ Estou iniciando o curso na @betrybe</b>.
 
 ## 
 
-  ![Snake animation](https://github.com/hiagobriano/hiagobriano/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/HiagoBriano/HiagoBriano/blob/output/github-contribution-grid-snake.svg)
   
 ## 
   
