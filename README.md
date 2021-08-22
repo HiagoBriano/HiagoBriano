@@ -14,10 +14,8 @@ Estou iniciando o curso na @betrybe</b>.
  ## 
  
  
- 
-  <!-- Contadores -->
   
-  <div style="text-align: center">
+  <div align="center">
   <a href="https://github.com/HiagoBriano">
 
   <img height="155em" src="https://github-readme-stats.vercel.app/api?username=hiagobriano&show_icons=true&&theme=graywhite&title_color=0000FF&include_all_commits=true&count_private=true&bg_color=C0C0C0&border_color=0000FF"/>
@@ -25,7 +23,7 @@ Estou iniciando o curso na @betrybe</b>.
   <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiagobriano&layout=compact&langs_count=7&&theme=graywhite&title_color=0000FF&bg_color=C0C0C0&border_color=0000FF"/>
 </div>
     <!-- Imagens das linguagens -->
-    <div style="text-align: center"><br>
+    <div align="center"><br>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
