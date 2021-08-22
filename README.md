@@ -22,7 +22,7 @@ Estou iniciando o curso na @betrybe</b>.
 
   <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiagobriano&layout=compact&langs_count=7&&theme=graywhite&title_color=0000FF&bg_color=C0C0C0&border_color=0000FF"/>
 
-    <!-- Imagens das linguagens -->
+   
 </div>
     <div align="center"><br>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
@@ -33,7 +33,9 @@ Estou iniciando o curso na @betrybe</b>.
 
 ## 
 
-    <!-- contador -->
+  ![Snake animation](https://github.com/hiagobriano/hiagobriano/blob/output/github-contribution-grid-snake.svg)
+  
+## 
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HiagoBriano" alt="Hiago Briano" /> </p>
 
