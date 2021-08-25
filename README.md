@@ -29,6 +29,7 @@ Estou iniciando o curso na @betrybe</b>.
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/> 
 </div>
 
 ## 
@@ -39,11 +40,4 @@ Estou iniciando o curso na @betrybe</b>.
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HiagoBriano" alt="Hiago Briano" /> </p>
 
-<!-- Imagem do e-mail (outlook) e do Linkedin
-<div> 
-<a href = "mailto:hiago.artist@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-</div>
 
-<a href="https://www.linkedin.com/in/hiago-briano/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
--->
