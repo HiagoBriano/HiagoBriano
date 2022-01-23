@@ -8,7 +8,7 @@ Me chamo <b> Hiago Briano</b>.
 </a>
 <p align="left" >
 Atualmente moro em Jandira/SP-BR.<br />
-Estou iniciando o curso na @betrybe</b>.
+Sou estudante da @betrybe</b>.
 </p>
  
  ## 
