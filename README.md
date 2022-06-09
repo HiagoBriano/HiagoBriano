@@ -18,9 +18,9 @@ Sou estudante da <a href="https://www.betrybe.com/">@betrybe</a></b>.
   <div align="center">
   <a href="https://github.com/HiagoBriano">
 
-  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=hiagobriano&show_icons=true&&theme=graywhite&title_color=0000FF&include_all_commits=true&count_private=true&bg_color=C0C0C0&border_color=0000FF&custom_title=Estatísticas"/>
+  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=hiagobriano&show_icons=true&&theme=graywhite&title_color=0000FF&include_all_commits=true&count_private=true&bg_color=C0C0C0&border_color=0000FF&locale=pt-br"/>
 
-  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiagobriano&layout=compact&langs_count=7&&theme=graywhite&title_color=0000FF&bg_color=C0C0C0&border_color=0000FF&custom_title=Linguagens mais usadas"/>
+  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiagobriano&layout=compact&langs_count=7&&theme=graywhite&title_color=0000FF&bg_color=C0C0C0&border_color=0000FF&locale=pt-br"/>
 
    
 </div>
