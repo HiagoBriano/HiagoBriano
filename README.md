@@ -36,8 +36,8 @@
    <h3 align="left">Desenvolvimento de back-end:</h3> 
  
  <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" alt="nodejs" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
  </div>
  
  <h3 align="left">Banco de dados:</h3> 
@@ -46,18 +46,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
  </div>
- 
-  <h3 align="left">Devops:</h3> 
- 
- <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
- </div>
- 
-   <h3 align="left">Backend como serviço (BaaS):</h3> 
- 
- <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" alt="heroku" width="40" height="40"/> 
- </div>
+
  
   <h3 align="left">Teste:</h3> 
  
@@ -71,6 +60,8 @@
  <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" alt="heroku" width="40" height="40"/> 
  </div>
           
  ## 
@@ -89,6 +80,6 @@
   
 ## 
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=HiagoBriano" alt="Hiago Briano" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=HiagoBriano" alt="Hiago Briano" /> </p>
 
 
