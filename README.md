@@ -1,9 +1,9 @@
 <h1 align="center">Olá, eu sou o Hiago Briano</h1>
 <h3 align="center">Sou um desenvolvedor front-stack.</h3>
 
-- 🔭 No momento estou estudando na [Trybe](https://www.betrybe.com/)
+- 🔭 Formado na escola de desenvolvimento web na [Trybe](https://www.betrybe.com/)
 
-- 🌱 Atualmente estou atualizando **Python**
+- 🌱 Atualmente estou atualizando **GoLang**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://portfolio-delta-dusky-30.vercel.app/](https://portfolio-delta-dusky-30.vercel.app/)
 
@@ -22,7 +22,7 @@
  <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Typescript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="GoLang" width="40" height="40"/>
  </div>
  
   <h3 align="left">Desenvolvimento Front-end:</h3> 
