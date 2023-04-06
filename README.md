@@ -3,7 +3,7 @@
 
 - 🔭 Formado na escola de desenvolvimento web na [Trybe](https://www.betrybe.com/)
 
-- 🌱 Atualmente estou atualizando **GoLang**
+- 🌱 Atualmente estou estudando **GoLang**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://hiagobriano.github.io/portfolio/](https://hiagobriano.github.io/portfolio/)
 
