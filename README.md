@@ -1,5 +1,5 @@
 <h1 align="center">Olá, eu sou o Hiago Briano</h1>
-<h3 align="center">Sou um desenvolvedor front-stack.</h3>
+<h3 align="center">Sou um desenvolvedor Full Stack.</h3>
 
 - 🔭 Formado na escola de desenvolvimento web na [Trybe](https://www.betrybe.com/)
 
