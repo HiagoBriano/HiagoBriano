@@ -31,7 +31,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
  </div>
  
-   <h3 align="left">Desenvolvimento de back-end:</h3> 
+   <h3 align="left">Desenvolvimento de Back-end:</h3> 
  
  <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" alt="nodejs" width="40" height="40"/> 
