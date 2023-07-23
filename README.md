@@ -79,7 +79,7 @@
 
 ##
 
-  ![Snake animation](https://github.com/HiagoBriano/HiagoBriano/blob/output/github-contribution-grid-snake.svg)
+  
   
 ## 
   
