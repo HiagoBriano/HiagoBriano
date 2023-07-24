@@ -38,7 +38,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
  </div>
  
- <h3 align="left">Banco de dados:</h3> 
+ <h3 align="left">Banco de Dados:</h3> 
  
  <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
