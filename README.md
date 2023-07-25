@@ -75,11 +75,6 @@
  
 
   <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiagobriano&layout=compact&langs_count=7&&theme=graywhite&title_color=0000FF&bg_color=C0C0C0&border_color=0000FF"/>
-
-
-##
-
-  ![Snake animation](https://github.com/HiagoBriano/HiagoBriano/blob/output/github-contribution-grid-snake.svg)
   
 ## 
   
