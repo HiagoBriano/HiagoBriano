@@ -1,11 +1,11 @@
 <h1 align="center">Olá, eu sou o Hiago Briano</h1>
 <h3 align="center">Sou um desenvolvedor Full Stack.</h3>
 
-- 🔭 Formado na escola de desenvolvimento web na [Trybe](https://www.betrybe.com/)
-
-- 👨‍💻 Todos os meus projetos estão disponíveis em [https://hiagobriano.github.io/portfolio/](https://hiagobriano.github.io/portfolio/)
-
-- 📫 E-mail para contato: **hiago.artist@hotmail.com**
+- Portfólio: [https://hiagobriano.github.io/portfolio/](https://hiagobriano.github.io/portfolio/).
+- Atualmente estou aprendendo Java na [Trybe](https://www.betrybe.com/) e aberto a novas oportunidades de trabalho comercial.
+- Formação em Desenvolvimento Web FullStack da [Trybe](https://www.betrybe.com/).
+- Superior em Redes de computadores pela UNINOVE.
+- E-mail para contato: **hiago.artist@hotmail.com**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
