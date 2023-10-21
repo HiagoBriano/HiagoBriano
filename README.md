@@ -53,7 +53,7 @@
 </p>
 
 ### Conecte-se comigo:
-<a href="https://wa.me/5511954614351" target="_blank">
+<a href="https://www.linkedin.com/in/hiago-briano/" target="_blank">
  <img src="https://img.shields.io/badge/LinkedIn-1572B6?logo=linkedin&logoColor=white&style=flat" />
 </a>
 <a href="mailto:hiiago.artist@hotmail.com" target="_blank">
