@@ -2,9 +2,9 @@
 <h3>Sou um desenvolvedor Full Stack.</h3>
 
 - Portfólio: [https://hiagobriano.github.io/portfolio/](https://hiagobriano.github.io/portfolio/).
-- Atualmente estou aprendendo Java na [Trybe](https://www.betrybe.com/) e aberto a novas oportunidades de trabalho comercial.
 - Formação em Desenvolvimento Web FullStack da [Trybe](https://www.betrybe.com/).
 - Superior em Redes de computadores pela UNINOVE.
+- Atualmente estou aprendendo Java na [Trybe](https://www.betrybe.com/) e aberto a novas oportunidades de trabalho comercial.
 - E-mail para contato: hiago.artist@hotmail.com
 
 ### Detalhes sobre os meus códigos:
