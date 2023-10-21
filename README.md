@@ -1,11 +1,20 @@
-<h1 align="center">Olá, eu sou o Hiago Briano</h1>
-<h3 align="center">Sou um desenvolvedor Full Stack.</h3>
+<h1>Olá, me chamo Hiago 👋</h1>
+<h3>Sou um desenvolvedor Full Stack.</h3>
 
 - Portfólio: [https://hiagobriano.github.io/portfolio/](https://hiagobriano.github.io/portfolio/).
 - Atualmente estou aprendendo Java na [Trybe](https://www.betrybe.com/) e aberto a novas oportunidades de trabalho comercial.
 - Formação em Desenvolvimento Web FullStack da [Trybe](https://www.betrybe.com/).
 - Superior em Redes de computadores pela UNINOVE.
-- E-mail para contato: **hiago.artist@hotmail.com**
+- E-mail para contato: hiago.artist@hotmail.com
+
+### Detalhes sobre o meus códigos:
+
+<div>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiagoBriano&hide_border=true&layout=compact" align="center" />
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HiagoBriano&show_icons=true&count_private=true&hide_border=true" align="center" />
+</div>
+
+###
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
@@ -62,18 +71,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" alt="heroku" width="40" height="40"/> 
  </div>
-          
- ## 
- 
-  <div align="center">
-  <a href="https://github.com/HiagoBriano">
-
-
-
-<div align="center">
-  <a href="https://github.com/HiagoBriano">
-
-  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiagobriano&layout=compact&langs_count=7&&theme=graywhite&title_color=0000FF&bg_color=C0C0C0&border_color=0000FF"/>
   
 ## 
   
