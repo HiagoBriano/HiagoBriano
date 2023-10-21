@@ -7,7 +7,7 @@
 - Superior em Redes de computadores pela UNINOVE.
 - E-mail para contato: hiago.artist@hotmail.com
 
-### Detalhes sobre o meus códigos:
+### Detalhes sobre os meus códigos:
 
 <div>
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiagoBriano&hide_border=true&layout=compact" align="center" />
@@ -16,11 +16,46 @@
 
 ###
 
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
+### Conecte-se comigo:
+<p>
 <a href="https://linkedin.com/in/hiago-briano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hiago-briano" height="30" width="40" /></a>
 </p>
  
+### Tecnologias que tenho habilidades:
+
+<p>
+<img src="https://img.shields.io/badge/HTML5-1572B6?logo=HTML5&logoColor=white&style=flat" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=white&style=flat" />
+ 
+<img src="https://img.shields.io/badge/JavaScript-1572B6?logo=JavaScript&logoColor=white&style=flat" />
+<img src="https://img.shields.io/badge/TypeScript-1572B6?logo=TypeScript&logoColor=white&style=flat" />
+<img src="https://img.shields.io/badge/GoLang-1572B6?logo=Go&logoColor=white&style=flat" />
+<img src="https://img.shields.io/badge/Java-1572B6?logo=java&logoColor=white&style=flat" />
+
+<img src="https://img.shields.io/badge/ReactJS-1572B6?logo=CreateReactApp&logoColor=white&style=flat" />
+<img src="https://img.shields.io/badge/NodeJS-1572B6?logo=NodeJS&logoColor=white&style=flat" />
+
+<img src="https://img.shields.io/badge/MongoDB-1572B6?logo=MongoDB&logoColor=white&style=flat" />
+<img src="https://img.shields.io/badge/PostgreSQL-1572B6?logo=PostgreSQL&logoColor=white&style=flat" />
+<img src="https://img.shields.io/badge/MYSQL-1572B6?logo=MYSQL&logoColor=white&style=flat" />
+
+<img src="https://img.shields.io/badge/Supabase-1572B6?logo=supabase&logoColor=white&style=flat" />
+<img src="https://img.shields.io/badge/Docker-1572B6?logo=docker&logoColor=white&style=flat" />
+</p>
+
+### Atuais ferramentas que estou utilizando:
+<p>
+ <img src="https://img.shields.io/badge/VSCode-007ACC?logo=VisualStudioCode&logoColor=white&style=flat" />
+ <img src="https://img.shields.io/badge/Visual Studio-5C2D91?logo=VisualStudio&logoColor=white&style=flat" />
+ <img src="https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white&style=flat" />
+ <img src="https://img.shields.io/badge/Github-181717?logo=Github&logoColor=white&style=flat" />
+</p>
+
+### Sistema operacional que tenho mais familiaridade:
+<p>
+ <img src="https://img.shields.io/badge/Windows-0078D6?logo=Windows&logoColor=white&style=flat" />
+ <img src="https://img.shields.io/badge/Linux-0078D6?logo=linux&logoColor=white&style=flat" />
+</p>
 
  <h2 align="center">Habilidades</h2>
  
