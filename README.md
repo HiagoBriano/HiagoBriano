@@ -39,6 +39,7 @@
 </p>
 
 ### Atuais ferramentas que estou utilizando:
+
 <p>
  <img src="https://img.shields.io/badge/VSCode-1572B6?logo=VisualStudioCode&logoColor=white&style=flat" />
  <img src="https://img.shields.io/badge/Visual Studio-1572B6?logo=VisualStudio&logoColor=white&style=flat" />
