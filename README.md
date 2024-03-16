@@ -4,7 +4,7 @@
 - Portfólio: [https://hiagobriano.github.io/portfolio/](https://hiagobriano.github.io/portfolio/).
 - Formação em Desenvolvimento Web Full Stack da [Trybe](https://www.betrybe.com/).
 - Superior em Redes de computadores pela UNINOVE.
-- Atualmente estou aprendendo Java na [Trybe](https://www.betrybe.com/) e aberto a novas oportunidades de trabalho comercial.
+- Atualmente estou construindo um site com a [Skill Labs](https://www.sklabs.com.br/), junto com uma equipe de 10 pessoas.
 - E-mail para contato: hiago.artist@hotmail.com
 
 ### Detalhes sobre os meus códigos:
