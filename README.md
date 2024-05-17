@@ -7,15 +7,6 @@
 - Atualmente estou construindo um site com a [Skill Labs](https://www.sklabs.com.br/), junto com uma equipe de 10 pessoas.
 - E-mail para contato: hiago.artist@hotmail.com
 
-### Detalhes sobre os meus códigos:
-
-<div>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiagoBriano&hide_border=true&layout=compact" align="center" />
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HiagoBriano&show_icons=true&count_private=true&hide_border=true" align="center" />
-</div>
-
-###
- 
 ### Tecnologias que tenho habilidades:
 
 <p>
