@@ -44,7 +44,7 @@
  <img src="https://img.shields.io/badge/Linux-0078D6?logo=linux&logoColor=white&style=flat" />
 </p>
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/hiagobriano/langs)](https://githubtrends.io)
+
 
 ### Conecte-se comigo:
 <a href="https://www.linkedin.com/in/hiago-briano/" target="_blank">
