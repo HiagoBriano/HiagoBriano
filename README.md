@@ -57,6 +57,18 @@
  <img src="https://img.shields.io/badge/Whatsapp-1572B6?logo=whatsapp&logoColor=white&style=flat" />
 </a>
 
+
+#
+
+ <div>
+  <a href="https://github.com/HiagoBriano">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiagoBriano&layout=compact&langs_count=8&theme=radical&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HiagoBriano&show_icons=true&theme=radical&include_all_commits=true&count_private=true&locale=pt-br"/>
+</div>
+<br/>
+
+ #
+
  
   
 ## 
